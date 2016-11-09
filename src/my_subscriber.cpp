@@ -3,6 +3,8 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <cv_bridge/cv_bridge.h>
 
+//Jesse was here too!
+
 void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 {
   try
