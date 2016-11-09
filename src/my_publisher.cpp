@@ -4,7 +4,7 @@
 #include <cv_bridge/cv_bridge.h>
 #include <sstream> //for converting the command line parameter to integer
 
-//Jesse was here
+//Jesse was here...
 
 int main(int argc, char** argv)
 {
